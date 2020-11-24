@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_trecho: MyString
+  numero_lei: MyString
+  latitude_inicial: 9.99
+  longitude_inicial: 9.99
+  latitude_final: 9.99
+  longitude_final: 9.99
+
+two:
+  nome_trecho: MyString
+  numero_lei: MyString
+  latitude_inicial: 9.99
+  longitude_inicial: 9.99
+  latitude_final: 9.99
+  longitude_final: 9.99
